@@ -1,3 +1,5 @@
+Trial Website: [https://AngeliaMiller.github.io/2024-03-29-trial-online](https://AngeliaMiller.github.io/2024-03-29-trial-online)
+
 [![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://github.com/carpentries/workshop-template/actions/workflows/website.yml)
 
 # The Carpentries Workshop Template
